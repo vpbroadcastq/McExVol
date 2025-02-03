@@ -1,0 +1,5 @@
+HEADER    NONAME                                                        NONE   1
+TITLE     Special pdb file for testing exVolSim                         NONE   2
+AUTHOR    Ben Knowles  (DBK)                                            NONE   3
+ATOM      1  S1  DBK     0       2.208  -0.928  -0.049  0.00  0.00           C+0
+END                                                                     NONE  27

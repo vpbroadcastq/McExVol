@@ -1,0 +1,14 @@
+HEADER    NONAME 31-Mar-11                                              NONE   1
+TITLE                                                                   NONE   2
+AUTHOR    Apache                                                        NONE   3
+REVDAT   1  31-Mar-11     0                                             NONE   4
+ATOM      1  CR  AB      0      -0.235   1.529  -0.000  0.00  0.00           C+0
+ATOM      2  CR  AB      0      -1.135   0.519  -0.000  0.00  0.00           C+0
+ATOM      3  CR  AB      0      -0.667  -0.822  -0.000  0.00  0.00           C+0
+ATOM      4  CR  AB      0       1.534  -0.036   0.000  0.00  0.00           C+0
+ATOM      5  NR  AB      0       1.108   1.240  -0.000  0.00  0.00           N+0
+ATOM      6  NR  AB      0       0.660  -1.060  -0.000  0.00  0.00           N+0
+ATOM      7  O   AB      0      -1.457  -1.749  -0.000  0.00  0.00           O+0
+ATOM      8  O   AB      0       2.728  -0.269   0.000  0.00  0.00           O+0
+ATOM      9  N   AB      0      -2.515   0.794   0.001  0.00  0.00           N+0
+END                                                                     NONE  28
